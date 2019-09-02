@@ -1,0 +1,8 @@
+tika
+pandas
+numpy
+editdistance
+geopy
+tabula
+scipy
+uszipcode
